@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align:center;
+  color: white;
+}
+
+h2 {
+  text-align:center;
+  color: white;
+}
+
+table {
+  background-color: moccasin;
+  border-color: black;
+}
+
+#tr1 {
+  color: red;
+}
