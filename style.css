@@ -5,11 +5,15 @@ body {
 h1 {
   text-align:center;
   color: white;
+  font-family: "times", sans-serif;
+  font-weight: bold;
 }
 
 h2 {
   text-align:center;
   color: white;
+  font-family: "bookman",serif;
+  font-style: italic;
 }
 
 table {
